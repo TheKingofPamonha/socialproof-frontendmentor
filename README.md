@@ -14,8 +14,8 @@ Nesta primeira etapa, o foco principal foi a **estruturação e o alinhamento da
 
 ### 🔗 Links
 
-- [**Live Site (Deploy):**](https://thekingofpamonha.github.io/socialproof-frontendmentor/)
-- [**Repositório:**](https://github.com/TheKingofPamonha/socialproof-frontendmentor)
+- [**Live Site (Deploy)**](https://thekingofpamonha.github.io/socialproof-frontendmentor/)
+- [**Repositório**](https://github.com/TheKingofPamonha/socialproof-frontendmentor)
 
 ## 🛠️ Construído com
 
